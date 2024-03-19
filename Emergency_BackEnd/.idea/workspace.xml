@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f55cd7c-1b98-4e12-9fd9-ef4cc247ffd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/00f3397e-e798-4826-971e-587a02ca22e3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/usyd/emergency/aspect/ServiceLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/usyd/emergency/aspect/ServiceLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/usyd/emergency/controller/CaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/usyd/emergency/controller/CaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/usyd/emergency/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/usyd/emergency/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/usyd/emergency/service/LoginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/usyd/emergency/service/LoginService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/usyd/emergency/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/usyd/emergency/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CaseServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/usyd/emergency/DiseaseServiceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/usyd/emergency/MailServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/usyd/emergency/MapServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/usyd/emergency/SubscribeServiceTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2X6WboHNpDDHCWnaRyIV337B3jj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "kai__batch__1",
+    "last_opened_file_path": "/Users/xuzhenke/Desktop/Emergency_BackEnd",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "d74828746d250288accf92a1e9166732"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.l">
+    <configuration name="SubscribeServiceTest.testCreateSubscription_invalidInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emergency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usyd.emergency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usyd.emergency" />
+      <option name="MAIN_CLASS_NAME" value="com.usyd.emergency.SubscribeServiceTest" />
+      <option name="METHOD_NAME" value="testCreateSubscription_invalidInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscribeServiceTest.testCreateSubscription_validInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emergency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usyd.emergency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usyd.emergency" />
+      <option name="MAIN_CLASS_NAME" value="com.usyd.emergency.SubscribeServiceTest" />
+      <option name="METHOD_NAME" value="testCreateSubscription_validInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscribeServiceTest.testGetDidsByUserId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emergency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usyd.emergency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usyd.emergency" />
+      <option name="MAIN_CLASS_NAME" value="com.usyd.emergency.SubscribeServiceTest" />
+      <option name="METHOD_NAME" value="testGetDidsByUserId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscribeServiceTest.testGetUidsByDiseaseId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emergency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usyd.emergency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usyd.emergency" />
+      <option name="MAIN_CLASS_NAME" value="com.usyd.emergency.SubscribeServiceTest" />
+      <option name="METHOD_NAME" value="testGetUidsByDiseaseId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscribeServiceTest.testUnsubscribeByDid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Emergency" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usyd.emergency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.usyd.emergency" />
+      <option name="MAIN_CLASS_NAME" value="com.usyd.emergency.SubscribeServiceTest" />
+      <option name="METHOD_NAME" value="testUnsubscribeByDid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmergencyApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Emergency_BackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usyd.emergency.EmergencyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmergencyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Emergency" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usyd.emergency.EmergencyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Emergency_BackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usyd.emergency.EmergencyApplication" />
+      <option name="VM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SubscribeServiceTest.testCreateSubscription_invalidInput" />
+      <item itemvalue="JUnit.SubscribeServiceTest.testCreateSubscription_validInput" />
+      <item itemvalue="JUnit.SubscribeServiceTest.testGetDidsByUserId" />
+      <item itemvalue="JUnit.SubscribeServiceTest.testGetUidsByDiseaseId" />
+      <item itemvalue="JUnit.SubscribeServiceTest.testUnsubscribeByDid" />
+      <item itemvalue="Spring Boot.l" />
+      <item itemvalue="Spring Boot.EmergencyApplication (1)" />
+      <item itemvalue="Spring Boot.EmergencyApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SubscribeServiceTest.testGetDidsByUserId" />
+        <item itemvalue="JUnit.SubscribeServiceTest.testCreateSubscription_validInput" />
+        <item itemvalue="JUnit.SubscribeServiceTest.testCreateSubscription_invalidInput" />
+        <item itemvalue="JUnit.SubscribeServiceTest.testGetUidsByDiseaseId" />
+        <item itemvalue="JUnit.SubscribeServiceTest.testUnsubscribeByDid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f55cd7c-1b98-4e12-9fd9-ef4cc247ffd4" name="Changes" comment="" />
+      <created>1697950086842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697950086842</updated>
+      <workItem from="1697950088529" duration="2162000" />
+      <workItem from="1698036310982" duration="11334000" />
+      <workItem from="1698127751561" duration="1664000" />
+      <workItem from="1698129430761" duration="4729000" />
+      <workItem from="1698214004672" duration="2140000" />
+      <workItem from="1698216857092" duration="1961000" />
+      <workItem from="1698464642855" duration="2159000" />
+      <workItem from="1698487133024" duration="4126000" />
+      <workItem from="1698492834509" duration="1479000" />
+      <workItem from="1710310378943" duration="380000" />
+      <workItem from="1710310892976" duration="1538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Emergency$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1697274240363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

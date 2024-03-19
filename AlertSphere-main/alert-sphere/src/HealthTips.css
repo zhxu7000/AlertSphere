@@ -1,0 +1,61 @@
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fadeIn {
+  animation-name: fadeIn;
+  animation-duration: 0.3s;
+  animation-timing-function: ease-out;
+}
+/* HealthTips.css */
+.transition-transform {
+  transition: transform 0.1s ease-out;
+}
+
+/* 在模态窗口弹出时添加缩放效果 */
+.transform.scale-95:hover {
+  transform: scale(1);
+}
+.tips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  border-radius: 8px;
+  transition: transform 0.2s;
+  cursor: pointer;
+  margin: 5px;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+.card-title {
+  margin-top: 10px;
+}
+
+/* Fixing the SideBarComponent */
+.side-bar-fixed {
+  position: fixed;
+  width: 250px;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+/* Adding left padding to the right-side content */
+.right-content-padding {
+  padding-left: 260px; /* Slightly more than the width of the sidebar to avoid any overlap */
+}
